@@ -21,7 +21,7 @@ year,month,season,,date,day,miles,time,pace,cal,steps,HR,V02 Max,elev,EPM,shoes,
 2019,nov,fall,4,11/11,mon,3,0:28:54,9.63,380,4486,,,,,ravenna 9,11:30,11:00:00 AM,n,1,Mom,None,50,"Acton, Stow",MA,2 heron view,2 heron view,trails,clear,,,,,,,W/ Mom,#REF!,#REF!,38,0.6333333333
 2019,nov,fall,5,11/13,wed,5,null,null,null,10654,,,,,ravenna 10a,7:15,7:00:00 AM,n,3,Grace Buckner,Dustin,17,"Amherst, South Hadley, Hadley, Granby",MA,mt. holyoke visitors center,mt. holyoke visitors center,mountain,windy,,,,,,,"W/ Andrew, Grace, Dustin",,#REF!,,0
 2019,nov,fall,5,11/14,thu,2,null,null,null,4261,,,,,ravenna 10a,8:30,8:00:00 AM,n,0,None,None,18,Amherst,MA,ohill,ohill,roads,clear,,,,,,,,,#REF!,,0
-2019,nov,fall,5,11/17,sun,2,null,null,null,4261,,,,,ravenna 10a,20:30,8:00:00 PM,n,0,None,None,,Amherst,MA,rec center,rec center,track,null,,,,,,,On indoor track,,#REF!,,0
+2019,nov,fall,5,11/17,sun,2,null,null,null,4261,,,,,ravenna 10a,20:30,8:00:00 PM,n,0,None,None,,Amherst,MA,rec center,rec center,track,indoors,,,,,,,On indoor track,,#REF!,,0
 2019,nov,fall,6,11/20,wed,5.32,0:48:19,9.07,659,7535,,,,,ravenna 10a,10:20,10:00:00 AM,n,0,None,None,39,"Amherst, Hadley",MA,rec center,rec center,rail trail,windy,,,,,,,,#REF!,#REF!,4,0.06666666667
 2019,nov,fall,6,11/22,fri,3.75,0:33:30,8.93,456,5231,,,,,ravenna 10a,13:00,1:00:00 PM,n,0,None,None,54,Westford,MA,52 nutting,52 nutting,trails,rainy,,,,,,,At home,#REF!,#REF!,56,0.9333333333
 2019,nov,fall,6,11/23,sat,3.1,0:27:10,8.75,382,4249,,,,,ravenna 10a,10:30,10:00:00 AM,y,62,Race,None,40,Tyngsboro,MA,notre dame academy,notre dame academy,race,clear,,,,,,,Race,#REF!,#REF!,45,0.75
@@ -47,18 +47,18 @@ year,month,season,,date,day,miles,time,pace,cal,steps,HR,V02 Max,elev,EPM,shoes,
 2019,dec,winter,10,12/20,fri,3.59,0:31:37,8.80,443,4943,,,,,ravenna 10a,12:30,12:00:00 PM,n,1,Mom,None,31,"Acton, Stow",MA,2 heron view,2 heron view,roads,windy,,,,,,,w/mom,#REF!,#REF!,48,0.8
 2019,dec,winter,10,12/21,sat,7.32,1:05:51,9.00,903,10277,,,,,ravenna 10a,8:00,8:00:00 AM,n,3,Mom,Sean,13,"Dracut, Tyngsboro",MA,GLRR office,GLRR office,roads,clear,,,,,,,GLRR xmas eve,#REF!,#REF!,0,0
 2019,dec,winter,10,12/22,sun,3,null,null,null,6392,,,,,ravenna 10a,15:45,3:00:00 PM,n,1,None,None,52,Kansas City,MO,Hemmingway,hemmingway,roads,clear,,,,,,,KC,,#REF!,,0
-2019,dec,winter,10,12/23,mon,2,null,null,null,4261,,,,,ravenna 10a,9:15,9:00:00 AM,n,10,Other,None,,Kansas City,MO,orange theory,orange theory,treadmill,null,,,,,,,Orangetheory,,#REF!,,0
+2019,dec,winter,10,12/23,mon,2,null,null,null,4261,,,,,ravenna 10a,9:15,9:00:00 AM,n,10,Other,None,,Kansas City,MO,orange theory,orange theory,treadmill,clear,,,,,,,Orangetheory,,#REF!,,0
 2019,dec,winter,11,12/24,tue,7.86,1:10:46,9.00,970,11044,,,,,ravenna 10a,10:00,10:00:00 AM,n,0,None,None,51,"Olathe, Lenexa",KS,santa marta,santa marta,roads,windy,,,,,,,KC,#REF!,#REF!,0,0
 2019,dec,winter,11,12/25,wed,4.1,0:38:14,9.32,512,5950,,,,,ravenna 10a,9:30,9:00:00 AM,n,1,Mom,None,56,Kansas City,MO,Hemmingway,hemmingway,roads,windy,,,,,,,KC,#REF!,#REF!,19,0.3166666667
-2019,dec,winter,12,12/31,tue,4,0:37:32,9.38,501,8523,,,,,ravenna 10a,9:30,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,Treadmill,#REF!,#REF!,23,0.3833333333
-2020,jan,winter,12,1/1,wed,6.6,1:00:00,9.08,817,14063,,,,,ravenna 10a,15:45,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,Treadmill,#REF!,#REF!,5,0.08333333333
-2020,jan,winter,12,1/2,thu,1.2,0:11:45,9.75,153,2557,,,,,ravenna 10a,9:45,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,Treadmill,#REF!,#REF!,45,0.75
-2020,jan,winter,12,1/3,fri,7.1,1:00:00,8.45,872,15128,,,,,ravenna 10a,15:30,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,Treadmill,#REF!,#REF!,27,0.45
-2020,jan,winter,12,1/4,sat,6.85,1:00:00,8.75,845,14596,,,,,ravenna 10a,13:45,1:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,Treadmill,#REF!,#REF!,45,0.75
-2020,jan,winter,12,1/5,sun,3.05,0:29:00,9.50,384,6499,,,,,ravenna 10a,15:45,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,Treadmill,#REF!,#REF!,30,0.5
-2020,jan,winter,12,1/6,mon,6.84,1:00:00,8.77,843,14574,,,,,ravenna 10a,9:50,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,Treadmill,#REF!,#REF!,46,0.7666666667
-2020,jan,winter,13,1/7,tue,6.45,1:00:00,9.30,805,13743,,,,,ravenna 10a,15:45,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,treadmill,#REF!,#REF!,18,0.3
-2020,jan,winter,13,1/8,wed,4.05,0:37:03,9.15,493,9588,,,,,ravenna 10a,9:30,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,null,,,,,,,treadmill,#REF!,#REF!,9,0.15
+2019,dec,winter,12,12/31,tue,4,0:37:32,9.38,501,8523,,,,,ravenna 10a,9:30,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,foggy,,,,,,,Treadmill,#REF!,#REF!,23,0.3833333333
+2020,jan,winter,12,1/1,wed,6.6,1:00:00,9.08,817,14063,,,,,ravenna 10a,15:45,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,indoors,,,,,,,Treadmill,#REF!,#REF!,5,0.08333333333
+2020,jan,winter,12,1/2,thu,1.2,0:11:45,9.75,153,2557,,,,,ravenna 10a,9:45,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,windy,,,,,,,Treadmill,#REF!,#REF!,45,0.75
+2020,jan,winter,12,1/3,fri,7.1,1:00:00,8.45,872,15128,,,,,ravenna 10a,15:30,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,windy,,,,,,,Treadmill,#REF!,#REF!,27,0.45
+2020,jan,winter,12,1/4,sat,6.85,1:00:00,8.75,845,14596,,,,,ravenna 10a,13:45,1:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,clear,,,,,,,Treadmill,#REF!,#REF!,45,0.75
+2020,jan,winter,12,1/5,sun,3.05,0:29:00,9.50,384,6499,,,,,ravenna 10a,15:45,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,windy,,,,,,,Treadmill,#REF!,#REF!,30,0.5
+2020,jan,winter,12,1/6,mon,6.84,1:00:00,8.77,843,14574,,,,,ravenna 10a,9:50,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,windy,,,,,,,Treadmill,#REF!,#REF!,46,0.7666666667
+2020,jan,winter,13,1/7,tue,6.45,1:00:00,9.30,805,13743,,,,,ravenna 10a,15:45,3:00:00 PM,n,0,None,None,,null,,at sea,at sea,treadmill,clear,,,,,,,treadmill,#REF!,#REF!,18,0.3
+2020,jan,winter,13,1/8,wed,4.05,0:37:03,9.15,493,9588,,,,,ravenna 10a,9:30,9:00:00 AM,n,0,None,None,,null,,at sea,at sea,treadmill,clear,,,,,,,treadmill,#REF!,#REF!,9,0.15
 2020,jan,winter,13,1/10,fri,5.2,null,null,null,11080,,,,,ravenna 10a,11:45,11:00:00 AM,n,1,Mom,None,49,"Acton, Maynard",MA,2 heron view,2 heron view,rail trail,windy,,,,,,,w/mom,,#REF!,,0
 2020,jan,winter,13,1/12,sun,3,0:28:31,9.50,378,4431,,,,,ravenna 10a,16:00,4:00:00 PM,n,1,Grace Buckner,None,73,Belmont,MA,maclean,maclean,trails,windy,,,,,,,w/Grace,#REF!,#REF!,30,0.5
 2020,jan,winter,13,1/13,mon,6.23,0:56:43,9.08,772,8843,,,,,ravenna 10a,15:45,3:00:00 PM,n,0,None,None,35,Westford,MA,52 nutting,52 nutting,trails,clear,,,,,,,,#REF!,#REF!,5,0.08333333333
@@ -557,10 +557,10 @@ year,month,season,,date,day,miles,time,pace,cal,steps,HR,V02 Max,elev,EPM,shoes,
 2022,jan,winter,107,1/4,tue,5.77,0:48:13,8.35,663,7658,166,53,216,37.43500867,adizero boston,12:38,12:00:00 PM,n,0,None,None,26,"Acton, Maynard",MA,2 heron view,2 heron view,roads,clear,Ali on the Run,Makenna Myler,first run of the year,bad,ok,none,,,,,
 2022,jan,winter,107,1/9,sun,8.04,1:14:23,9.25,747,11654,145,53,470,58.45771144,adizero boston,9:46,9:00:00 AM,n,3,Mom,Liane,30,Westford,MA,4 grenada,4 grenada,roads,rainy,,,run with mom's hot tub running club,good,good,none,,,,,
 2022,jan,winter,108,1/10,mon,7.57,1:04:55,8.58,772,10052,157,53,390,51.51915456,levitate 5,13:27,1:00:00 PM,n,0,None,None,27,"Sudbury, Maynard",MA,cummings field,cummings field,roads,partly cloudy,Ali on the Run,Michelle Wolfe,street bagging scurry,ok,ok,none,,,,,
-2022,jan,winter,108,1/11,tue,5.3,0:44:39,8.43,610,6964,165,53,0,0,levitate 5,11:31,11:00:00 AM,n,0,None,None,null,Acton,MA,2 heron view,2 heron view,treadmill,null,,,run on the dreadmill,ok,ok,none,not bad for the dread,,,,
+2022,jan,winter,108,1/11,tue,5.3,0:44:39,8.43,610,6964,165,53,0,0,levitate 5,11:31,11:00:00 AM,n,0,None,None,null,Acton,MA,2 heron view,2 heron view,treadmill,cloudy,,,run on the dreadmill,ok,ok,none,not bad for the dread,,,,
 2022,jan,winter,108,1/12,wed,6.3,0:53:35,8.50,707,8476,163,53,318,50.47619048,levitate 5,12:11,12:00:00 PM,n,0,None,None,32,"Sudbury, Maynard",MA,st. johns lutheran,st. johns lutheran,roads,partly cloudy,Citius Mag,Shadrack Kipchirchir,moyuh maynuhd,ok,ok,none,,,,,
 2022,jan,winter,108,1/14,fri,4.52,0:38:59,8.62,520,6176,164,52,66,14.60176991,levitate 5,9:08,9:00:00 AM,n,0,None,None,36,Quincy,MA,246 quincy shore,246 quincy shore,roads,cloudy,Ali on the Run,Brittany Charboneau,a morning run by the sea,bad,ok,none,,,,,
-2022,jan,winter,108,1/15,sat,4.25,0:35:20,8.32,442,5412,155,52,0,0,levitate 5,16:40,4:00:00 PM,n,0,None,None,null,Acton,MA,2 heron view,2 heron view,treadmill,null,,,treadmill run,ok,ok,none,,,,,
+2022,jan,winter,108,1/15,sat,4.25,0:35:20,8.32,442,5412,155,52,0,0,levitate 5,16:40,4:00:00 PM,n,0,None,None,null,Acton,MA,2 heron view,2 heron view,treadmill,cloudy,,,treadmill run,ok,ok,none,,,,,
 2022,jan,winter,109,1/17,mon,5.93,0:50:43,8.55,596.232,7903.896,151,52,422,71.16357504,levitate 5,14:02,2:00:00 PM,n,0,None,None,40,Maynard,MA,saint bridget's church,saint bridget's church,roads,cloudy,More Than Running,Colleen Quigley,"run part 1,2,3",ok,bad,none,this was cray and stupid,,,,
 2022,jan,winter,109,1/18,tue,5.07,0:44:34,8.78,527,6908,155,52,192,37.86982249,levitate 5,9:07,9:00:00 AM,n,0,None,None,24,Maynard,MA,st. mary's,st. mary's,roads,clear,Ali on the Run,Allie Wilson,this run was dare I say... a hot take,bad,bad,none,this sucked lmao,,,,
 2022,jan,winter,109,1/19,wed,5.27,0:46:56,8.90,538,6726,160,52,317,60.15180266,levitate 5,13:52,1:00:00 PM,n,0,None,None,40,Maynard,MA,river st,river st,roads,partly cloudy,Run Your Mouth,Ben Eidenschink,an afternoon run and just that,bad,bad,none,this sucked again lmao,,,,
@@ -585,6 +585,3 @@ year,month,season,,date,day,miles,time,pace,cal,steps,HR,V02 Max,elev,EPM,shoes,
 2022,feb,winter,112,2/10,thu,9.8,1:21:18,8.28,1075,12916,162,53,652,66.53061224,levitate 5,13:43,1:00:00 PM,n,0,None,None,45,Amherst,MA,johnson hall,johnson hall,roads,cloudy,Convos Over Cold Brew,Kate Glavan,street bagging turned wild,good,good,none,lmao what,,,,
 2022,feb,winter,112,2/11,fri,5.15,0:40:19,7.83,479,6442,151,54,216,41.94174757,adizero boston,16:03,4:00:00 PM,n,3,Delia,Virginia,49,Amherst,MA,student union,student union,track,clear,,,friday workout,bad,ok,none,,,,,
 2022,feb,winter,112,2/13,sun,8.92,1:13:54,8.28,918,11860,153,55,486,54.48430493,ghost 12,13:32,1:00:00 PM,n,0,None,None,31,Amherst,MA,webster court,gatehouse rd,roads,cloudy,Ali on the Run,Sinclaire Johnson & Craig Nowak,"run part 1,2",good,ok,none,rip,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,7.07,91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,11.48,2252,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
