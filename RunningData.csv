@@ -1,4 +1,4 @@
-year,month,season,,date,day,miles,time,pace,cal,steps,HR,V02 Max,elev,EPM,shoes,TOD,hour,race,ppl,p1,p2,temp,towns,state,start,end,terrain,conditions,podcast,topic/ guest,strava name,physical,mental,abs,comments,num_pace,min,sec,sec_dec
+year,month,season,,date,day,miles,time,pace,calories,steps,heart rate,V02 Max,elevation,EPM,shoes,time of day,hour,race,people,p1,p2,temp,towns,state,start,end,terrain,conditions,podcast,topic/ guest,strava name,physical,mental,abs,comments,num_pace,min,sec,sec_dec
 2019,oct,fall,1,10/15,tue,9.39,1:28:30,9.42,1170,14377,,,,,ravenna 9,10:15,10:00:00 AM,n,0,None,None,53,Amherst,MA,ohill,ohill,rail trail,clear,,,,,,,,9.416666667,9,25,0.4166666667
 2019,oct,fall,1,10/16,wed,4.23,0:38:16,9.05,522,6255,,,,,ravenna 9,9:30,9:00:00 AM,n,1,Grace Buckner,None,50,Amherst,MA,parish,parish,roads,clear,,,,,,,W/ Grace,#REF!,#REF!,3,0.05
 2019,oct,fall,1,10/17,thu,3.77,0:34:22,9.12,467,5612,,,,,ravenna 9,7:45,7:00:00 AM,n,1,Grace Buckner,None,46,Amherst,MA,parish,parish,roads,windy,,,,,,,W/ Grace,#REF!,#REF!,7,0.1166666667
